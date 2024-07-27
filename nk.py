@@ -1904,7 +1904,7 @@ def run(phone, i):
         time.sleep(1)
 
 if __name__ == "__main__":
-    print("MinhNguyen3004")
+    print("VanTien Leakbnos")
     phone = input("Nhập số điện thoại: ")
     count = int(input("Nhập số lần spam: "))
     
